@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sharadj34/LeetCodeSolved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/sharadj34/LeetCodeSolved/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1944-truncate-sentence) |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
