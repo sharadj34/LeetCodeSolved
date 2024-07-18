@@ -1,29 +1,13 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int i=0,j=0;
-        while(j!=s.size())
-        {
-            cout<<i<<" "<<j<<endl;
-            if(s[j]==' ' or j==s.size()-1)
-            {
-                int m = i, n;
-                if(j==s.size()-1)
-                n=j;
-                else
-                n=j-1;
-                while(m<n)
-                {
-                    char a = s[m];
-                    s[m]=s[n];
-                    s[n]=a;
-                    m++;
-                    n--;
-                }
-            i=j+1;
-            }
-            j++;
+        stringstream ss(s);
+        string temp,ans;
+        while(ss>>temp){
+            reverse(temp.begin(),temp.end());
+            ans+= (temp+" ");
         }
-        return s;
+        
+        return ans.substr(0,ans.size()-1);
     }
 };
