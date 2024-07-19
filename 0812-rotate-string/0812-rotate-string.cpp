@@ -2,7 +2,7 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
 
-        // OPTIMAL APPROACH - O()
+        // OPTIMAL APPROACH - O(n)
         queue<char> q1,q2;
 
         for(int i=0; i<s.size(); i++)
