@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sharadj34/LeetCodeSolved/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/sharadj34/LeetCodeSolved/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0812-rotate-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sharadj34/LeetCodeSolved/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/sharadj34/LeetCodeSolved/tree/master/2406-decode-the-message) |
 ## Two Pointers
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
