@@ -15,13 +15,12 @@ public:
 
         while(k!=0)
         {
+            if(q1==q2)
+                return true;
+
             char ch = q2.front();
             q2.pop();
             q2.push(ch);
-
-            if(q1==q2)
-                return true;
-            
             k--;
         }
         return false;
