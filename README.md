@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/sharadj34/LeetCodeSolved/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1078-remove-outermost-parentheses) |
 | [1651-shuffle-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sharadj34/LeetCodeSolved/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
