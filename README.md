@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sharadj34/LeetCodeSolved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/sharadj34/LeetCodeSolved/tree/master/1899-count-items-matching-a-rule) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
