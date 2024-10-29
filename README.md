@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -90,8 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
