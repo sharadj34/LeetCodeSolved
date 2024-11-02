@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/sharadj34/LeetCodeSolved/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2406-decode-the-message](https://github.com/sharadj34/LeetCodeSolved/tree/master/2406-decode-the-message) |
+| [2580-circular-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/sharadj34/LeetCodeSolved/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
