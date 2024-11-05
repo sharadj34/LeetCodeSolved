@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/sharadj34/LeetCodeSolved/tree/master/2406-decode-the-message) |
 | [2580-circular-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/sharadj34/LeetCodeSolved/tree/master/2886-faulty-keyboard) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sharadj34/LeetCodeSolved/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/3451-string-compression-iii) |
 ## Hash Table
 |  |
