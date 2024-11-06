@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1970-sorting-the-sentence) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
