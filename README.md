@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharadj34/LeetCodeSolved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sharadj34/LeetCodeSolved/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/3291-find-if-array-can-be-sorted) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sharadj34/LeetCodeSolved/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sharadj34/LeetCodeSolved/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sharadj34/LeetCodeSolved/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
