@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharadj34/LeetCodeSolved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharadj34/LeetCodeSolved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharadj34/LeetCodeSolved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sharadj34/LeetCodeSolved/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharadj34/LeetCodeSolved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2406-decode-the-message](https://github.com/sharadj34/LeetCodeSolved/tree/master/2406-decode-the-message) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharadj34/LeetCodeSolved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
