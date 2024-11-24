@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharadj34/LeetCodeSolved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2032-largest-odd-number-in-string) |
+| [2089-maximum-matrix-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/sharadj34/LeetCodeSolved/tree/master/2716-prime-subtraction-operation) |
 ## Trie
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharadj34/LeetCodeSolved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
