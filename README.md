@@ -197,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharadj34/LeetCodeSolved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/sharadj34/LeetCodeSolved/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
