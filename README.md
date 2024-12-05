@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2232-adding-spaces-to-a-string) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/sharadj34/LeetCodeSolved/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2406-decode-the-message](https://github.com/sharadj34/LeetCodeSolved/tree/master/2406-decode-the-message) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sharadj34/LeetCodeSolved/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2886-faulty-keyboard](https://github.com/sharadj34/LeetCodeSolved/tree/master/2886-faulty-keyboard) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharadj34/LeetCodeSolved/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sharadj34/LeetCodeSolved/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
