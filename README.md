@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/2089-maximum-matrix-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharadj34/LeetCodeSolved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharadj34/LeetCodeSolved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1970-sorting-the-sentence) |
+| [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2561-number-of-distinct-averages](https://github.com/sharadj34/LeetCodeSolved/tree/master/2561-number-of-distinct-averages) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sharadj34/LeetCodeSolved/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharadj34/LeetCodeSolved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharadj34/LeetCodeSolved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharadj34/LeetCodeSolved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
