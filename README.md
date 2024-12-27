@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharadj34/LeetCodeSolved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1063-best-sightseeing-pair](https://github.com/sharadj34/LeetCodeSolved/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharadj34/LeetCodeSolved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharadj34/LeetCodeSolved/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/sharadj34/LeetCodeSolved/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharadj34/LeetCodeSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
