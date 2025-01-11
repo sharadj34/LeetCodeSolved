@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/sharadj34/LeetCodeSolved/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/sharadj34/LeetCodeSolved/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharadj34/LeetCodeSolved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharadj34/LeetCodeSolved/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/1502-construct-k-palindrome-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sharadj34/LeetCodeSolved/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharadj34/LeetCodeSolved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sharadj34/LeetCodeSolved/tree/master/2300-construct-string-with-repeat-limit) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sharadj34/LeetCodeSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2032-largest-odd-number-in-string) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sharadj34/LeetCodeSolved/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharadj34/LeetCodeSolved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
