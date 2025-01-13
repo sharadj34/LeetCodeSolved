@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sharadj34/LeetCodeSolved/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sharadj34/LeetCodeSolved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sharadj34/LeetCodeSolved/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sharadj34/LeetCodeSolved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/sharadj34/LeetCodeSolved/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharadj34/LeetCodeSolved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sharadj34/LeetCodeSolved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sharadj34/LeetCodeSolved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
