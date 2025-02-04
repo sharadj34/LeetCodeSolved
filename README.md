@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/sharadj34/LeetCodeSolved/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/sharadj34/LeetCodeSolved/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/sharadj34/LeetCodeSolved/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1972-rotating-the-box) |
