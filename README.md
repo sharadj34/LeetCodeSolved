@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sharadj34/LeetCodeSolved/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sharadj34/LeetCodeSolved/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/sharadj34/LeetCodeSolved/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharadj34/LeetCodeSolved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharadj34/LeetCodeSolved/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/sharadj34/LeetCodeSolved/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sharadj34/LeetCodeSolved/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2886-faulty-keyboard](https://github.com/sharadj34/LeetCodeSolved/tree/master/2886-faulty-keyboard) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sharadj34/LeetCodeSolved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/sharadj34/LeetCodeSolved/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
