@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sharadj34/LeetCodeSolved/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1970-sorting-the-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sharadj34/LeetCodeSolved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharadj34/LeetCodeSolved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -180,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharadj34/LeetCodeSolved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sharadj34/LeetCodeSolved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharadj34/LeetCodeSolved/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/sharadj34/LeetCodeSolved/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sharadj34/LeetCodeSolved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sharadj34/LeetCodeSolved/tree/master/2692-take-gifts-from-the-richest-pile) |
