@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sharadj34/LeetCodeSolved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sharadj34/LeetCodeSolved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/sharadj34/LeetCodeSolved/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sharadj34/LeetCodeSolved/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sharadj34/LeetCodeSolved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharadj34/LeetCodeSolved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sharadj34/LeetCodeSolved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/sharadj34/LeetCodeSolved/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/2562-count-ways-to-build-good-strings) |
