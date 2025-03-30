@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/sharadj34/LeetCodeSolved/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/sharadj34/LeetCodeSolved/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1078-remove-outermost-parentheses) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sharadj34/LeetCodeSolved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharadj34/LeetCodeSolved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/sharadj34/LeetCodeSolved/tree/master/0952-word-subsets) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharadj34/LeetCodeSolved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharadj34/LeetCodeSolved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
