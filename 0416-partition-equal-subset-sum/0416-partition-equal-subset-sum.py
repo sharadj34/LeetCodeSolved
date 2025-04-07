@@ -1,12 +1,13 @@
-class Solution(object):
-    def canPartition(self, nums):
-        totalSum = sum(nums)
-        if totalSum % 2 != 0:
+class Solution:
+    def canPartition(self, nums: list[int]) -> bool:
+        total = sum(nums)
+        if total % 2 != 0:
             return False
-        targetSum = totalSum // 2
-        dp = [False] * (targetSum + 1)
-        dp[0] = True
+
+        target = total // 2
+        dp = 1 << 0
+
         for num in nums:
-            for currSum in range(targetSum, num - 1, -1):
-                dp[currSum] = dp[currSum] or dp[currSum - num]
-        return dp[targetSum]
+            dp |= dp << num
+
+        return (dp & (1 << target)) != 0
