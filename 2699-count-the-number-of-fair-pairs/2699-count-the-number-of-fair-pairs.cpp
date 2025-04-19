@@ -1,31 +1,21 @@
 class Solution {
 public:
-    long long countFairPairs(vector<int>& arr, int lower, int upper) {
-        sort(arr.begin(), arr.end());
-        long long ans = 0;
-
-        int i = 0;
-        int j = arr.size() - 1;
-        while (i < j) {
-            if (arr[i] + arr[j] > upper) {
-                --j;
+    long long find(vector<int>& nums, int limit) {
+        int left = 0, right = nums.size() - 1;
+        long long res = 0;
+        while (left < right) {
+            if (nums[left] + nums[right] <= limit) {
+                res += (right - left);
+                left++;
             } else {
-                ans += (j - i);
-                ++i;
+                right--;
             }
         }
+        return res;
+    }
 
-        i = 0;
-        j = arr.size() - 1;
-        while (i < j) {
-            if (arr[i] + arr[j] > lower - 1) {
-                --j;
-            } else {
-                ans -= (j - i);
-                ++i;
-            }
-        }
-
-        return ans;
+    long long countFairPairs(vector<int>& nums, int lower, int upper) {
+        sort(nums.begin(), nums.end());
+        return find(nums, upper) - find(nums, lower - 1);
     }
 };
