@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/sharadj34/LeetCodeSolved/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/sharadj34/LeetCodeSolved/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/sharadj34/LeetCodeSolved/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/sharadj34/LeetCodeSolved/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sharadj34/LeetCodeSolved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/sharadj34/LeetCodeSolved/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharadj34/LeetCodeSolved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sharadj34/LeetCodeSolved/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharadj34/LeetCodeSolved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/sharadj34/LeetCodeSolved/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sharadj34/LeetCodeSolved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/sharadj34/LeetCodeSolved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sharadj34/LeetCodeSolved/tree/master/1063-best-sightseeing-pair) |
