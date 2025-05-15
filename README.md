@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sharadj34/LeetCodeSolved/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharadj34/LeetCodeSolved/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharadj34/LeetCodeSolved/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sharadj34/LeetCodeSolved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sharadj34/LeetCodeSolved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/sharadj34/LeetCodeSolved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2886-faulty-keyboard](https://github.com/sharadj34/LeetCodeSolved/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sharadj34/LeetCodeSolved/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sharadj34/LeetCodeSolved/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharadj34/LeetCodeSolved/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/sharadj34/LeetCodeSolved/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/sharadj34/LeetCodeSolved/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharadj34/LeetCodeSolved/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sharadj34/LeetCodeSolved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Trie
 |  |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/sharadj34/LeetCodeSolved/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sharadj34/LeetCodeSolved/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharadj34/LeetCodeSolved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharadj34/LeetCodeSolved/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sharadj34/LeetCodeSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sharadj34/LeetCodeSolved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
