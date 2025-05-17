@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sharadj34/LeetCodeSolved/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/sharadj34/LeetCodeSolved/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sharadj34/LeetCodeSolved/tree/master/0416-partition-equal-subset-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sharadj34/LeetCodeSolved/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/sharadj34/LeetCodeSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharadj34/LeetCodeSolved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/sharadj34/LeetCodeSolved/tree/master/0768-partition-labels) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sharadj34/LeetCodeSolved/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sharadj34/LeetCodeSolved/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/sharadj34/LeetCodeSolved/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharadj34/LeetCodeSolved/tree/master/0780-max-chunks-to-make-sorted) |
